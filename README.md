@@ -1,3 +1,6 @@
+                                                       NAME : Lakshmi Priya .V
+                                                       REG NO: 212223220049
+
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
@@ -17,8 +20,6 @@ Visual components and Python
 
 
 ## Experiment:
-
-
 ## Program:
 ![Screenshot 2024-03-29 194214](https://github.com/Lakshmi-v-Priya/Open-Jacson-Networks/assets/151720706/8cf04e70-88ae-40d1-bc76-db21092421b4)
 
